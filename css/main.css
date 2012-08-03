@@ -1,0 +1,17 @@
+body {
+	width: 100%
+}
+
+img {
+	display: block;
+	position: relative;
+	left: 50%;
+	margin-left: -300px;
+
+	margin-top: 40px;
+}
+
+h1 {
+	font-weight: normal;
+	text-align: center;
+}
