@@ -27,8 +27,8 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #fff;
-		font: 14px/1.6 "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		background: transparent;
+		font: 14px/1.6 "Futura", sans-serif;
 		color: #333;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;

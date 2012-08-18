@@ -15,3 +15,24 @@ h1 {
 	font-weight: normal;
 	text-align: center;
 }
+
+h3 {
+
+	box-sizing: border-box;
+
+	text-align: right;
+
+	width: 140px;
+	height: 20px;
+
+	border: 1px solid #99c;
+
+	font-size: 11px;
+	line-height: 13px;
+	font-weight: normal;
+	margin: 3px;
+	padding: 3px 4px;
+	border-radius: 5px;
+
+	background: #def url('../img/unlike.png') no-repeat 6px 3px;
+}

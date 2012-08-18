@@ -402,7 +402,8 @@ Options -MultiViews
 # ----------------------------------------------------------------------
 
 # You can add custom pages to handle 500 or 403 pretty easily, if you like.
-ErrorDocument 404 /404.html
+ErrorDocument 404 http://localhost/no-facebook/no-like.html
+#ErrorDocument 404 "no-like"
 
 
 
@@ -507,6 +508,10 @@ Options -Indexes
 # Custom
 # ----------------------------------------------------------------------
 <IfModule mod_rewrite.c>
-  RewriteCond %{HTTP_HOST} facebook\.com [NC]
+  RewriteCond %{HTTP_HOST} (www.)?facebook\.com [NC]
   RewriteRule ^ http://localhost/no-facebook/ [R=301,L]
 </IfModule>
+
+
+
+
