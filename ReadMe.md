@@ -1,6 +1,6 @@
 # Simple step for huge productivity improvement
 
-I though simply adding `127.0.0.1 facebook.com` wasn't enough and wanted a page that nicely remembered me that I should be working instead. Also added a replacement page for the like button.
+I though simply adding `127.0.0.1 facebook.com` in my host files wasn't enough and wanted a page that nicely remembered me that I should be working instead. Also added a replacement page for the like button.
 
 ## Pros
 - no more “cmd+t – f – enter” automatism.
