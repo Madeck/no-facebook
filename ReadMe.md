@@ -1,6 +1,6 @@
-# Petit projet pour améliorer ma productivité
+# Simple step for huge productivity improvement
 
-Très simplement, il s'agit d'une page vers laquelle je suis redirigé lorsque j'essaie d'aller sur facebook.com.
+I though simply adding `127.0.0.1 facebook.com` wasn't enough and wanted a page that nicely remembered me that I should be working instead. Also added a replacement page for the like button.
 
 ## Pros
 - no more “cmd+t – f – enter” automatism.
