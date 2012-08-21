@@ -20,19 +20,19 @@ h3 {
 
 	box-sizing: border-box;
 
-	text-align: right;
+	text-align: left;
 
-	width: 140px;
-	height: 20px;
+	width: 130px;
+	height: 21px;
 
 	border: 1px solid #99c;
 
 	font-size: 11px;
-	line-height: 13px;
+	line-height: 15px;
 	font-weight: normal;
-	margin: 3px;
+	margin: 0px;
 	padding: 3px 4px;
 	border-radius: 5px;
 
-	background: #def url('../img/unlike.png') no-repeat 6px 3px;
+	background: #def url('../img/like.png') no-repeat 111px 1px;
 }
